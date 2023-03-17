@@ -1,0 +1,4 @@
+repository "IdleGameTestTask@NikitaSkapintsev@cloud"
+  path "/"
+    br "/main"
+    co "/main"
